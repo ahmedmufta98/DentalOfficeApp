@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Appointments\frmAppointmentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Appointments\frmAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dashboard\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DentistOffice\frmDentistOfficeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dentists\frmDentistDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dentists\frmDentists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Payments\frmPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Ratings\frmRatings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Register\frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Report\rptDentistMvp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Treatments\frmTreatmentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Treatments\frmTreatments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\frmUserDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Users\frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

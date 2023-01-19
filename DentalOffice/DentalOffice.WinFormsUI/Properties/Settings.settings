@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DentalOffice.WinFormsUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APIurl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:7169/api</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

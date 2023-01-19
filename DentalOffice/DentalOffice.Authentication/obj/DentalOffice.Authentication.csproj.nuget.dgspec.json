@@ -1,0 +1,432 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Authentication\\DentalOffice.Authentication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Authentication\\DentalOffice.Authentication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Authentication\\DentalOffice.Authentication.csproj",
+        "projectName": "DentalOffice.Authentication",
+        "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Authentication\\DentalOffice.Authentication.csproj",
+        "packagesPath": "C:\\Users\\ARNI - PC 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Authentication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARNI - PC 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Repositories\\DentalOffice.Repositories.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Repositories\\DentalOffice.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj",
+        "projectName": "DentalOffice.Dtos",
+        "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj",
+        "packagesPath": "C:\\Users\\ARNI - PC 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARNI - PC 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj",
+        "projectName": "DentalOffice.Entities",
+        "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj",
+        "packagesPath": "C:\\Users\\ARNI - PC 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARNI - PC 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj",
+        "projectName": "DentalOffice.Enums",
+        "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\DentalOffice.Enums.csproj",
+        "packagesPath": "C:\\Users\\ARNI - PC 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARNI - PC 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Mapper\\DentalOffice.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Mapper\\DentalOffice.Mapper.csproj",
+        "projectName": "DentalOffice.Mapper",
+        "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Mapper\\DentalOffice.Mapper.csproj",
+        "packagesPath": "C:\\Users\\ARNI - PC 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARNI - PC 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Dtos\\DentalOffice.Dtos.csproj"
+              },
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Repositories\\DentalOffice.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Repositories\\DentalOffice.Repositories.csproj",
+        "projectName": "DentalOffice.Repositories",
+        "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Repositories\\DentalOffice.Repositories.csproj",
+        "packagesPath": "C:\\Users\\ARNI - PC 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARNI - PC 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Entities\\DentalOffice.Entities.csproj"
+              },
+              "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Mapper\\DentalOffice.Mapper.csproj": {
+                "projectPath": "C:\\Users\\ARNI - PC 10\\Desktop\\Dental office app\\DentalOffice\\DentalOffice.Mapper\\DentalOffice.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

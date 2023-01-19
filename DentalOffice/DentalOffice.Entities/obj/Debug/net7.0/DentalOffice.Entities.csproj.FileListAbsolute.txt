@@ -1,0 +1,17 @@
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\bin\Debug\net7.0\DentalOffice.Entities.deps.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\bin\Debug\net7.0\DentalOffice.Entities.runtimeconfig.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\bin\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\bin\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.csproj.AssemblyReference.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.AssemblyInfoInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.AssemblyInfo.cs
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.csproj.CopyComplete
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\refint\DentalOffice.Entities.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\DentalOffice.Entities.genruntimeconfig.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Entities\obj\Debug\net7.0\ref\DentalOffice.Entities.dll

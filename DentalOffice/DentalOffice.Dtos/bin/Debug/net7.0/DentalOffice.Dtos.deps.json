@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DentalOffice.Dtos/1.0.0": {
+        "dependencies": {
+          "DentalOffice.Enums": "1.0.0"
+        },
+        "runtime": {
+          "DentalOffice.Dtos.dll": {}
+        }
+      },
+      "DentalOffice.Enums/1.0.0": {
+        "runtime": {
+          "DentalOffice.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DentalOffice.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DentalOffice.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

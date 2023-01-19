@@ -1,0 +1,12 @@
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.deps.json
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\bin\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.AssemblyReference.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfoInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.AssemblyInfo.cs
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.csproj.CoreCompileInputs.cache
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\refint\DentalOffice.Enums.dll
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\DentalOffice.Enums.pdb
+C:\Users\ARNI - PC 10\Desktop\Dental office app\DentalOffice\DentalOffice.Enums\obj\Debug\net7.0\ref\DentalOffice.Enums.dll
