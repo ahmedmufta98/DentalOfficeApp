@@ -39,6 +39,9 @@ namespace DentalOffice.Repositories.Services
             if (searchRequest.End is not null)
                 appointments = appointments.Where(a => a.End == searchRequest.End);
 
+            if (searchRequest.Start is not null && searchRequest.End is not null)
+                appointments = appointments.Where(a => a.Start >= searchRequest.Start && a.End <= searchRequest.End);
+
             if (searchRequest.DentistId is not null)
                 appointments = appointments.Where(a => a.DentistId == searchRequest.DentistId);
 
