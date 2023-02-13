@@ -33,12 +33,6 @@ namespace DentalOffice.Repositories.Services
             }).AsQueryable();
 
 
-            if (searchRequest.Start is not null)
-                appointments = appointments.Where(a => a.Start == searchRequest.Start);
-
-            if (searchRequest.End is not null)
-                appointments = appointments.Where(a => a.End == searchRequest.End);
-
             if (searchRequest.Start is not null && searchRequest.End is not null)
                 appointments = appointments.Where(a => a.Start >= searchRequest.Start && a.End <= searchRequest.End);
 
